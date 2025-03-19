@@ -4,7 +4,8 @@
 import os
 import json
 import time
-
+import hashlib
+from typing import Any, Optional
 
 class CacheManager:
     """缓存管理器"""

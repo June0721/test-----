@@ -4,7 +4,6 @@
 import os
 import json
 import time
-import hashlib
 from typing import Dict, Any, Optional
 
 class CacheManager:

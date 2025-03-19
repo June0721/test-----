@@ -1,0 +1,42 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# 虚拟环境
+venv/
+ENV/
+
+# 日志和临时文件
+logs/
+*.log
+temp/
+tmp/
+cache/
+
+# 敏感配置
+user_config.json
+
+# 下载历史
+download_history.json
+
+# 其他
+.DS_Store
+.vscode/

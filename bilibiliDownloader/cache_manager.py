@@ -4,7 +4,6 @@
 import os
 import json
 import time
-import hashlib
 
 
 class CacheManager:
